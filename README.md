@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Gazzali Ahmad Garo @garoweb262
-- 👀 I’m interested in Website Development full stack. 
-Working with SQL and nonSQL Database
-- 🌱 I’m currently learning more on nonSQL Database
+- 👀 I’m interested in Website Development full stack javascript developer. 
+Working with SQL, nodejs, react, angular, typscript...
+- 🌱 working 
 - 💞️ I’m looking to collaborate on website development projects
 - 📫 How to reach me.. 07066492821
 Muhdgazzali01@gmail.com
