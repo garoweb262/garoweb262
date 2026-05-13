@@ -4,7 +4,7 @@ I'm a versatile and passionate developer with a background in both front-end and
 🚀 About Me
 I am a dedicated and enthusiastic Fullstack Developer with over 5 years of combined experience in front-end and back-end development.
 
-💻 Fullstack Developer: 5 years of professional experience with expertise in HTML, CSS, JavaScript, React, Node.js, Express.js, Next.js, Nest.js, Flutter, and more.
+💻 Fullstack Developer: years of professional experience with expertise in HTML, CSS, JavaScript, React, Node.js, Express.js, Next.js, Nest.js, Flutter, and more.
 🌟 Successful Projects: Successfully delivered multiple website and mobile application projects.
 🌐 Industry Experience: Worked with notable companies, including Bellbank Microfinance Ltd, 5es Solutions Ltd, Syrol Technologies, Mahshell Soft Ltd, Pipe Tek Ltd, and more.
 🛠️ Technologies & Tools
